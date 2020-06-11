@@ -45,7 +45,6 @@ async def update_slowmode():
     message_cache = {}
     last_updated = time.time()
     previous_delays = new_channel_delays
-    print(previous_delays)
 
 
 @client.event
