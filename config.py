@@ -6,7 +6,7 @@ bot_token = "###########################################################"
 
 # minimum amount of seconds between check
 # e.g. compare amount of messages sent in channel within past 30 seconds
-check_frequency = 5
+check_frequency = 30
 
 # determine amount of messages per check_frequency required for each slowmode band
 # slowmode_delay must be an integer ranging from 0-21600 seconds
